@@ -1,2 +1,2 @@
 # odin-recipes
-Repo created for Odin Reciprs project
+Repo created for Odin Recipes project
